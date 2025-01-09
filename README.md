@@ -32,7 +32,7 @@ Functions and Instructions for use:
 
 10. Print Tree Height
 
-   Command: printLevelCount
+    Command: printLevelCount
 
    
 NOTES:
