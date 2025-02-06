@@ -1,4 +1,14 @@
-Functions and Instructions for use:
+**Challenges:**
+
+- Dynamic memory allocation
+
+- Memory leaks
+
+- Handling edge cases (empty tree, unbalances insertions requiring deep recursion, invalid inputs, etc)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Functions and Instructions for use:**
 
 1. Insert a Node
 
@@ -34,7 +44,8 @@ Functions and Instructions for use:
 
     Command: printLevelCount
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
-NOTES:
+**NOTES:**
 - Names must be enclosed in double quotes ("") and IDs must be exactly 8 digits.
 - Invalid inputs or unsupported commands will result in an "unsuccessful" message.
