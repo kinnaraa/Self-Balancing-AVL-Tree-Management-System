@@ -10,7 +10,7 @@ This project implements an AVL Tree, a self-balancing binary search tree, to man
 
 - Memory leaks
 
-- Handling edge cases (empty tree, unbalances insertions requiring deep recursion, invalid inputs, etc)
+- Handling edge cases (empty tree, unbalanced insertions requiring deep recursion, invalid inputs, etc)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
