@@ -1,3 +1,9 @@
+**About:**
+
+This project implements an AVL Tree, a self-balancing binary search tree, to manage hypothetical IDs and names of students. Operations include insertion, deletion, traversal (Inorder, Preorder, Postorder), and search by ID or name. The program maintains balance for efficient operations, using rotation mechanisms for rebalancing.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Challenges:**
 
 - Dynamic memory allocation
@@ -43,8 +49,6 @@
 10. Print Tree Height
 
     Command: printLevelCount
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
 **NOTES:**
 - Names must be enclosed in double quotes ("") and IDs must be exactly 8 digits.
